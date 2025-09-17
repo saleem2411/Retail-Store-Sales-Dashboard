@@ -20,7 +20,8 @@ The objective of this project is to develop an interactive Power BI dashboard th
 - Dashboard Interaction <a href="https://github.com/saleem2411/Retail-Store-Sales-Dashboard/blob/main/Screenshot%202025-09-10%20191722.png"> View Dashboard</a>
 
 # Dashboard
-<img width="1170" height="656" alt="Screenshot 2025-09-10 191722" src="https://github.com/user-attachments/assets/fa9e5450-366d-4eec-8997-750fb28f0338" />
+<img width="1170" height="656" alt="Screenshot 2025-09-10 191722" src="https://github.com/user-attachments/assets/495a8e06-8a2c-4cf9-8e6d-38c8f4f3a981" />
+
 
 # Project Insights
 - The store generated over 2M in sales with 70K products sold to 13K customers, indicating steady business growth.
