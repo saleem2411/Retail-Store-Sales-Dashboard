@@ -7,6 +7,9 @@ The objective of this project is to develop an interactive Power BI dashboard th
 - What is the total sales amount generated during the period (2022–2025)?
 - How many unique customers have purchased from the store?
 - What is the total quantity of products sold?
+- How much revenue came from In-Store vs. Online sales?
+- Which Payment method  customers use most frequently?
+- How have sales changed from Jan 2022 to Jan 2025?
 
 # Process
 - Gather raw retail sales data (2022–2025) from Kaggle.com
